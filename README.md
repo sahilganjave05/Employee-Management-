@@ -51,3 +51,6 @@ To get started with the Employee Management System, follow these steps:
 ## Contributing
 
 Contributions to the project are welcome! Whether you'd like to report a bug, suggest an enhancement, or contribute code, please feel free to open an issue or submit a pull request on GitHub.
+
+##License
+This project is licensed under the MIT License.
